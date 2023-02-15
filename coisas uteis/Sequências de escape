@@ -1,0 +1,8 @@
+\a = Toca um bipe, alarme sonoro padrão do sistema
+\b = Backspace
+\n = Quebra de linha
+\t = Tabulação horizontal(TAB)
+\r = Retorna ao inicio da linha
+\0 = Caractere nulo
+\v = Tabulação vertical
+

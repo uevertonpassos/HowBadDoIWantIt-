@@ -1,0 +1,8 @@
+d ou i = numeros inteiros em base decimal
+X  = numeros inteiros em base hexadecimal
+f = números em ponto flutuante(casas decimais)
+e = números em notação cientificca(com casas decimais)
+c = caracteres alfanuméricos(texto)
+s = sequencia de alfanuméricos (texto)
+.<num> = especifica a quantidade de casas decimais
+
