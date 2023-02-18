@@ -12,5 +12,6 @@ int main(){
     else{
         printf("reporvado!");
     }
+    // tentando fazer ifs em c
 
 }
