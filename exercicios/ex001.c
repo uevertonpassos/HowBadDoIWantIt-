@@ -1,3 +1,4 @@
+//Faça um programa que calcule a média de duas notas de um aluno e imprima o resultado na tela.
 #include <stdio.h>
 
 void main(){
