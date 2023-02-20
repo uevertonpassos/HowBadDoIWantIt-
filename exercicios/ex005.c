@@ -6,4 +6,5 @@ int main(){
 	
 	//vou testar isso também
 	// testando novamente
+	//tentando dar commit com o editor aberto
 }
