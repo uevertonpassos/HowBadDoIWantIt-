@@ -4,7 +4,8 @@ int main(){
 	printf("BATATA");
 	return 0;
 	
-	//vou testar isso também
+	//vou testar isso tambï¿½m
 	// testando novamente
 	//tentando dar commit com o editor aberto
 }
+		
