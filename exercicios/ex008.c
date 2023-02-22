@@ -1,5 +1,5 @@
-/*Fa�a um programa que leia dois n�meros
- inteiros e verifique se o primeiro � maior, menor ou igual ao segundo.
+/*Faça um programa que leia dois numeros
+ inteiros e verifique se o primeiro e maior, menor ou igual ao segundo.
 */
 #include <stdio.h>
 

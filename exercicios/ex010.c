@@ -8,10 +8,9 @@ void main(){
     printf("Digite algo: ");
     scanf("%c", &letra);
     if (letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u' || letra == 'A' || letra == 'E' || letra == 'I' || letra == 'O' || letra == 'U') {
-        printf("Vogal");
+        printf("Vogal\n");
     }
     else{
-        printf("Consoante");
+        printf("Consoante\n");
     }
 }
-//mudando
