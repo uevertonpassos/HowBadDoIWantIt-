@@ -10,6 +10,5 @@
     area = num*num;
     printf("A area do quadrado sera: %.2f metros\n", area);
 
-
-
  }
+ 
