@@ -12,7 +12,7 @@ void main(){
     printf("Quarta nota: ");
     scanf("%f", &nota4);
     average = (nota1+nota2+nota3+nota4)/4;
-    printf("A MEDIA FINAL DO ALUNO FOI: %f\n", average);
+    printf("A MEDIA FINAL DO ALUNO FOI: %.2f\n", average);
     if(average>= 6){
         printf("Aprovado, parabéns!");
     }
