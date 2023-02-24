@@ -12,4 +12,4 @@ void main(){
     pesoideal = (72.7*altura) - 58;
     printf("Seu peso ideal será %.2f\n", pesoideal);
 
-}
+}   
